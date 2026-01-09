@@ -18,7 +18,7 @@
     "react-csv": "2.0.3",
     "react-datasheet": "1.4.4",
     "react-dom": "16.12.0",
-    "react-scripts": "3.0.1"
+    "react-scripts": "5.0.1"
   },
   "devDependencies": {
     "typescript": "3.8.3"
